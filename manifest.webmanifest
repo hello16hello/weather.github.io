@@ -1,0 +1,18 @@
+{
+  "short_name": "tuto",
+  "name": "tuto",
+  "description": "Weather ",
+  "icons": [
+    {
+      "src": "k.jpg",
+      "type": "image/jpg",
+      "sizes": "192x192"
+    },
+    {
+      "src": "c.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  
+}
